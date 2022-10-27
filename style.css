@@ -1,7 +1,7 @@
 :root {
     --main-color: #ecf0f1;
-    --point-color: red;
-    --size: 20px;
+    --point-color: #fcd303;
+    --size: 15px;
 }
 
 .loader {
